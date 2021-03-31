@@ -1,5 +1,5 @@
 # Networking-and-Automation
-Network Automation is a cross between the discipline of [Network Infrastructure](https://github.com/sindresorhus/awesome#networking) and the discipline of Programming. This list was created to serve as a one-stop shop for information related to Network Automation.
+Network Automation is process by which a repeatable task can be successfully duplicated. Only then does Network Automation make sense.
 
 - [Community](#community)
 - [Events / Meetup](#events--meetup)

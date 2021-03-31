@@ -1,5 +1,5 @@
 # Networking-and-Automation
-Network Automation is a process by which a repeatable task can be successfully duplicated. Network Automation makes sense when a job needs to be repeated several times or consistently. The resources below are a great start to exploring the world of Networking and Automation.
+Network Automation is a process by which a repeatable task can be successfully duplicated. Network Automation makes sense when a job needs to be repeated several times or consistently. The resources below are a great start to exploring the world of Networking and Automation. This list was created to serve as an all ecompassing list related to Network Automation.
 
 - [Community](#community)
 - [Events / Meetup](#events--meetup)
